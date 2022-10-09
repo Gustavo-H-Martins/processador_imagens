@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: processamento-de-imagem
+Version: 0.0.1
+Summary: Pacote de processamento de imagem usando Skimage
+Home-page: https://github.com/
+Author: Gustavo H Lopes
+Author-email: gustavojoana10@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+
+<h1 align="center">Processamento de Imagens </h1>
+
+# DescriÃ§Ã£o
+
+<p align="justify">Este Ã© um projeto simples seguindo um tutorial para apresentaÃ§Ã£o de um projeto hands-on de Pacotes em Python.</p>
+Este pacote processamento_de_imagem Ã© usado:
+    Processameto:
+        - Histogram matching
+        - Structural similarity
+        - Resize image
+    Utiliario:
+        - Read image
+        - Save image
+        - plot image
+        - plot result
+        - plot histogram
+
+
+# InstalaÃ§Ã£o
+Use o gerenciador de pacotes [pip](https://pypi.org/project/modulo/) para instalar o Processamento de Imagens
+
+    pip install processamento_de_imagem
+
+# Uso
+    from pip install processamento_de_imagem import combination
+    combination.plot()
+# Autor
+Gustavo Henrique Lopes Martins
+
+# LicenÃ§a
+
+MIT
