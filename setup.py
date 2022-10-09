@@ -14,7 +14,7 @@ setup(
     description="Pacote de processamento de imagem usando Skimage",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/",
+    url="https://github.com/Gustavo-H-Martins/processador_imagens",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
